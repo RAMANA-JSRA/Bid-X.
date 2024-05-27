@@ -42,7 +42,7 @@ Inside config.env
 ```
 PORT = 5000
 MONGO_URI = your mongodb uri
-JWT_SECRET = 'abc123'
+JWT_SECRET = 'abcxxxx'
 
 CLOUDINARY_NAME= your API name
 CLOUDINARY_API_KEY=  your API key
@@ -70,5 +70,26 @@ node app.js
 #or
 nodemon app.js
 ```
+## Contributing
 
+Contributions are welcome! If you have any suggestions or improvements, please fork the repository and create a pull request. For major changes, please open an issue first to discuss what you would like to change.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+## Contact
+
+If you have any questions or feedback, please feel free to reach out.
+
+- **GitHub:** [ramana-jsra](https://github.com/ramana-jsra)
+- **Email:** ramanajsra12@gmail.com
+
+Thank you for visiting the GreenDen Webpage repository!
 
